@@ -1,0 +1,25 @@
+/* ProfileInfo.css */
+.profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .profile-pic {
+    margin-right: 20px; /* Adjust the spacing between the picture and details */
+    border-radius: 50%; /* Make the profile picture round */
+    overflow: hidden;
+  }
+  
+  .profile-pic img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .profile-details {
+    text-align: right;
+  }
+  
+  /* Add more styling as needed */
+  
