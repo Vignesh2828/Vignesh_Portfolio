@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vignesh_Portfolio/static/css/main.a971bd29.css",
-    "main.js": "/Vignesh_Portfolio/static/js/main.0d2108ff.js",
+    "main.js": "/Vignesh_Portfolio/static/js/main.66470418.js",
     "static/media/1.4.jpg": "/Vignesh_Portfolio/static/media/1.4.e8a711452c8aa9ae5f1b.jpg",
     "static/media/about_home.jpg": "/Vignesh_Portfolio/static/media/about_home.e9620c025d63f978c8c4.jpg",
     "static/media/contact_home.jpg": "/Vignesh_Portfolio/static/media/contact_home.e4cbda7f6089c772e56d.jpg",
@@ -26,10 +26,10 @@
     "static/media/mysql_logo.png": "/Vignesh_Portfolio/static/media/mysql_logo.17ec01314179e9a8ab58.png",
     "index.html": "/Vignesh_Portfolio/index.html",
     "main.a971bd29.css.map": "/Vignesh_Portfolio/static/css/main.a971bd29.css.map",
-    "main.0d2108ff.js.map": "/Vignesh_Portfolio/static/js/main.0d2108ff.js.map"
+    "main.66470418.js.map": "/Vignesh_Portfolio/static/js/main.66470418.js.map"
   },
   "entrypoints": [
     "static/css/main.a971bd29.css",
-    "static/js/main.0d2108ff.js"
+    "static/js/main.66470418.js"
   ]
 }
