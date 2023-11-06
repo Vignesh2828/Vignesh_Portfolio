@@ -1,6 +1,8 @@
 import Footer from "../Components/Footer";
 import Hero from "../Components/Hero";
 import Navbar from "../Components/Navbar";
+import ContactForm from '../Components/contact_form';
+import contact_home from '../Assets/contact_home.jpg';
 
 function Contact() {
   return (
@@ -8,10 +10,18 @@ function Contact() {
       <Navbar />
       <Hero
         cName="contact"
-        heroImg="https://images.unsplash.com/photo-1508615070457-7baeba4003ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-        title="Contact"
-        btnClass="hide"
+        heroImg={contact_home}
+        title="Lets Contact Me"
+        ptext="Scroll the page down"
+        stext={
+          <>
+            <i className="fa-solid fa-angles-down fa-bounce"></i>
+            <i className="fa-solid fa-angles-down fa-bounce"></i>
+            <i className="fa-solid fa-angles-down fa-bounce"></i> {/* Add the new icon here */}
+          </>
+        }
       />
+      <ContactForm />
       <Footer />
     </>
   );

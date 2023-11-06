@@ -6,7 +6,6 @@ const Footer = () => {
       <div className="top">
         <div>
           <h1>vicky</h1>
-          <p>Compare it and own it</p>
         </div>
         <div>
           <a href="/">
